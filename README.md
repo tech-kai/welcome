@@ -37,10 +37,6 @@
 
 ロンドン在住のC#Developerです。2020年からイギリスで暮らしています。銀行向けシステムの開発保守してます。週二でジム通ってます。よろしくお願いします！
 
-:man: Ken Wagatsuma (https://www.linkedin.com/in/kenju-wagatsuma/)
-
-ロンドン在住の Site Reliability Engineer (SRE) です！2020年からイギリスで暮らしています。過去の留学・渡英経験で数々の先駆者に助けられてきたので、同じような場を作りたいと思いコミュニティ運営に携わっています！よろしくお願いします！
-
 :woman: Shino Hartmann🇩🇪
 
 2014年にイギリスでCSの大学へ行き、2016年からJava Developer やってます。
